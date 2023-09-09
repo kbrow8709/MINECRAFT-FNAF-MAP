@@ -1,0 +1,2040 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "0dd501541eb617a551187ad7d6130623989584dd",
+      "size": 11637719,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
+    },
+    {
+      "sha1": "b78d6d3c3160407bd7a6da30b345dd2b8b29da34",
+      "size": 10007043,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
+    },
+    {
+      "sha1": "8e8c9be5dc27802caba47053d4fdea328f7f89bd",
+      "size": 7236064,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-mappings.txt"
+    },
+    {
+      "sha1": "24d05fdd07a59ff816c1b85bf756d13ccc771be9",
+      "size": 17332865,
+      "path": "libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
+    },
+    {
+      "sha1": "5166f969af2a75840c464b78c693d54b63b7dc87",
+      "size": 2604372,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-universal.jar"
+    },
+    {
+      "sha1": "c17ad06d97110b87cd352b5d4733adf3fdeda4ce",
+      "size": 5290671,
+      "path": "libraries/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.19.2-43.2.0/forge-1.19.2-43.2.0-client.jar"
+    },
+    {
+      "sha1": "d4dcb5b809b7f035ac22b058941cf81f84451545",
+      "size": 112533,
+      "path": "libraries/net/minecraftforge/fmlcore/1.19.2-43.2.0/fmlcore-1.19.2-43.2.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.19.2-43.2.0/fmlcore-1.19.2-43.2.0.jar"
+    },
+    {
+      "sha1": "5713dfd49576886a7ffc353f14f067ad42369592",
+      "size": 16351,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.19.2-43.2.0/javafmllanguage-1.19.2-43.2.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.19.2-43.2.0/javafmllanguage-1.19.2-43.2.0.jar"
+    },
+    {
+      "sha1": "0f4fa83ef8129c7f7cc5847fbafb07f7ae86c1bb",
+      "size": 4985,
+      "path": "libraries/net/minecraftforge/mclanguage/1.19.2-43.2.0/mclanguage-1.19.2-43.2.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.19.2-43.2.0/mclanguage-1.19.2-43.2.0.jar"
+    },
+    {
+      "sha1": "51c88985dd125457fb8b6c2c58a4f3b9349a6b57",
+      "size": 7377,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.2.0/lowcodelanguage-1.19.2-43.2.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.19.2-43.2.0/lowcodelanguage-1.19.2-43.2.0.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -851923141160500,
+    "name": "fax craf",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 388172,
+          "name": "GeckoLib",
+          "author": "spectralstudiosminecraft",
+          "uuid": "7d6a72e4-c34d-11ea-8f8c-b42e996a7d7a",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 519165,
+          "pictures": [],
+          "lanName": "geckolib",
+          "version": {
+            "id": 4407241,
+            "name": "geckolib-forge-1.19-3.1.40",
+            "updateDate": 1677033360000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "92a447e19afe1a23a33219f5428b2198a58094f4",
+              "size": 2938383,
+              "path": "mods/geckolib-forge-1.19-3.1.40.jar",
+              "url": "/mods/388172/4407241/geckolib-forge-1.19-3.1.40.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 638,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1692392400000,
+          "update": 1692392400000,
+          "downloadALL": 4882734,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306770,
+          "name": "Patchouli",
+          "author": "Vazkii",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 482492,
+          "pictures": [],
+          "lanName": "patchouli",
+          "version": {
+            "id": 4031402,
+            "name": "1.19.2-77",
+            "updateDate": 1665954000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "cfccf39046a5d375647c6b85d8191b76bbd5f9d6",
+              "size": 635370,
+              "path": "mods/Patchouli-1.19.2-77.jar",
+              "url": "/mods/306770/4031402/Patchouli-1.19.2-77.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1030,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689022800000,
+          "update": 1689022800000,
+          "downloadALL": 4024685,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 614831,
+          "name": "Fazcraft [Minecraft x FNaF]",
+          "author": "moffmoth1",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fazcraft-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 521882,
+          "pictures": [
+            521950,
+            521947,
+            521948,
+            521946,
+            521949
+          ],
+          "lanName": "fazcraft-mod",
+          "version": {
+            "id": 4715782,
+            "name": "Fazcraft-3.7.1-1.19.2",
+            "updateDate": 1692641334000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f75c41656e65415410f65af8e08c6748e2e3ae49",
+              "size": 15424705,
+              "path": "mods/Fazcraft-3.7.1-1.19.2.jar",
+              "url": "/mods/614831/4715782/Fazcraft-3.7.1-1.19.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 176,
+              "name": "Patchouli",
+              "gameEntityId": 306770,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1693083600000,
+          "update": 1693083600000,
+          "downloadALL": 48163,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 452562,
+          "name": "FnafDecor",
+          "author": "mraxoloti",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fnafdecor",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 526293,
+          "pictures": [
+            492538
+          ],
+          "lanName": "fnafdecor",
+          "version": {
+            "id": 4645544,
+            "name": "_V5.5_1.19.2",
+            "updateDate": 1689429232000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "e94a383c5756b9da71d9ad8852f58e4044131347",
+              "size": 2267498,
+              "path": "mods/FnafDecor_V5.5_1.19.2.jar",
+              "url": "/mods/452562/4645544/FnafDecor_V5.5_1.19.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1689368400000,
+          "update": 1689368400000,
+          "downloadALL": 104728,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 513547,
+          "name": "FNaF Music Disk Mod",
+          "author": "fnafletsplay",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fnaf-music-disk-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            }
+          ],
+          "picture": 501086,
+          "pictures": [
+            271233
+          ],
+          "lanName": "fnaf-music-disk-mod",
+          "version": {
+            "id": 4659891,
+            "name": "FMDM-1.19.2-1.0.0",
+            "updateDate": 1690115106000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f7b2a3bef05f2e1076b66a02fd35850deae8a04b",
+              "size": 132351024,
+              "path": "mods/FMDM-1.19.2-1.0.0.jar",
+              "url": "/mods/513547/4659891/FMDM-1.19.2-1.0.0.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1690059600000,
+          "update": 1690059600000,
+          "downloadALL": 26873,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 565042,
+          "name": "The Multiverse of Freddy's (FNaF)",
+          "author": "lemonpush",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/the-multiverse-of-freddys-fnaf",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 14,
+              "name": "world_biomes",
+              "shortName": "biomes",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 471897,
+          "pictures": [
+            324209,
+            325878,
+            326662,
+            325877,
+            324207,
+            326663,
+            472136
+          ],
+          "lanName": "the-multiverse-of-freddys-fnaf",
+          "version": {
+            "id": 4557587,
+            "name": "TMoF_-_1.19.2 (Beta 1.0.1)",
+            "updateDate": 1685307600000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "05e7a7327a8ed04593ddb0c243c15fccfa2e1721",
+              "size": 14171470,
+              "path": "mods/TMoF_-_1.19.2+(Beta+1.0.1).jar",
+              "url": "/mods/565042/4557587/TMoF_-_1.19.2+(Beta+1.0.1).jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1685307600000,
+          "update": 1685307600000,
+          "downloadALL": 38447,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 64760,
+          "name": "Security Craft",
+          "author": "Geforce132 bl4ckscor3 MrTrollNugNug",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            }
+          ],
+          "picture": 451999,
+          "pictures": [
+            452858,
+            452860,
+            452859,
+            30126,
+            452861,
+            452863,
+            452857,
+            452862
+          ],
+          "lanName": "security-craft",
+          "version": {
+            "id": 4531283,
+            "name": "[1.19.2]  v1.9.6.1",
+            "updateDate": 1683666000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "578fe88e89071a59557227f39acc2efd192996d2",
+              "size": 3664060,
+              "path": "mods/[1.19.2]+SecurityCraft+v1.9.6.1.jar",
+              "url": "/mods/64760/4531283/%5B1.19.2%5D+SecurityCraft+v1.9.6.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 22203,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 38,
+              "name": "The One Probe",
+              "gameEntityId": 245211,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 4,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 859,
+              "name": "Jade 🔍",
+              "gameEntityId": 324717,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1690837200000,
+          "update": 1690837200000,
+          "downloadALL": 12313728,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 55438,
+          "name": "MrCrayfish's Furniture Mod",
+          "author": "Mr_Crayfish",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 486212,
+          "pictures": [
+            256249,
+            237021,
+            256250,
+            486296,
+            256251,
+            362616,
+            237022
+          ],
+          "lanName": "mrcrayfish-furniture-mod",
+          "version": {
+            "id": 4374996,
+            "name": "cfm-7.0.0-pre35-1.19.2",
+            "updateDate": 1675198800000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "632b8720e4a63981d7cbdf444d6619d2994bef6e",
+              "size": 2209834,
+              "path": "mods/cfm-7.0.0-pre35-1.19.2.jar",
+              "url": "/mods/55438/4374996/cfm-7.0.0-pre35-1.19.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 43384,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1687381200000,
+          "update": 1687381200000,
+          "downloadALL": 29045339,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511172,
+          "name": "Hourglass",
+          "author": "duckycrayfish",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/hourglass",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 240282,
+          "pictures": [
+            240284
+          ],
+          "lanName": "hourglass",
+          "version": {
+            "id": 3935107,
+            "name": "hourglass-1.19.1-1.2.1.1",
+            "updateDate": 1660510800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "bf90d7fbca006913d19fc53eaed8898b4e6191c7",
+              "size": 234855,
+              "path": "mods/hourglass-1.19.1-1.2.1.1.jar",
+              "url": "/mods/511172/3935107/hourglass-1.19.1-1.2.1.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 43,
+            "name": "1.19.3"
+          },
+          "updated": 1660496460000,
+          "update": 1660496460000,
+          "downloadALL": 8725,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 496520,
+          "name": "Horror elements mod",
+          "author": "predator97427fr",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/horror-elements-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 457027,
+          "pictures": [
+            383666,
+            384153,
+            384152,
+            277913,
+            232738,
+            277915,
+            384155,
+            277921,
+            323599,
+            277910,
+            232736,
+            277894,
+            277899,
+            277902,
+            277908,
+            277918,
+            277901,
+            277898,
+            277893,
+            277895,
+            277897,
+            277904,
+            277922,
+            277903,
+            277907,
+            277919,
+            277914,
+            277923,
+            277916,
+            277925,
+            232737,
+            232740,
+            277912,
+            277900,
+            277924,
+            277896,
+            277906,
+            232742,
+            277905,
+            277911,
+            232739,
+            277909,
+            277917,
+            384154,
+            232741,
+            277920
+          ],
+          "lanName": "horror-elements-mod",
+          "version": {
+            "id": 4447859,
+            "name": "Horror_elements_mod_1.19.2_1.5",
+            "updateDate": 1679295660000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "926bde516d90bcc5f50b851076539eaf5ab453f6",
+              "size": 98653004,
+              "path": "mods/Horror_elements_mod_1.19.2_1.5.jar",
+              "url": "/mods/496520/4447859/Horror_elements_mod_1.19.2_1.5.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1682888400000,
+          "update": 1682888400000,
+          "downloadALL": 39278,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 59652,
+          "name": "SecretRoomsMod",
+          "author": "AbrarSyed Pricea1",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/secretroomsmod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 52765,
+          "pictures": [
+            21081
+          ],
+          "lanName": "secretroomsmod",
+          "version": {
+            "id": 4098367,
+            "name": "secretrooms-1.19.2-1.2.0",
+            "updateDate": 1668891600000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "8c25644a10b6295b1b6dae749c514927b12929c2",
+              "size": 242509,
+              "path": "mods/secretrooms-1.19.2-1.2.0.jar",
+              "url": "/mods/59652/4098367/secretrooms-1.19.2-1.2.0.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 4043,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1668854160000,
+          "update": 1668854160000,
+          "downloadALL": 4399177,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 853639,
+          "name": "MOA DECOR BATH",
+          "author": "moa666creator moa666creator",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moa-decor-bath",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 456974,
+          "pictures": [
+            457857,
+            457854,
+            457852,
+            502780,
+            457856,
+            457851,
+            457855,
+            502781,
+            457853,
+            502782
+          ],
+          "lanName": "moa-decor-bath",
+          "version": {
+            "id": 4516296,
+            "name": "MOAdecor BATH 1.19.2",
+            "updateDate": 1682974800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "d8edc6641d2ee3bf8de7cead1094630a152dca95",
+              "size": 1272856,
+              "path": "mods/MOAdecor+BATH+1.19.2.jar",
+              "url": "/mods/853639/4516296/MOAdecor+BATH+1.19.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6025,
+              "name": "MOA DECOR LIGHTS",
+              "gameEntityId": 892530,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6022,
+              "name": "MOA DECOR COOKERY",
+              "gameEntityId": 701502,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6024,
+              "name": "MOA DECOR TOYS",
+              "gameEntityId": 701524,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6023,
+              "name": "MOA DECOR SCIENCE",
+              "gameEntityId": 701517,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6020,
+              "name": "MOA DECOR ART",
+              "gameEntityId": 701473,
+              "dependencyType": "embedded"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1693515600000,
+          "update": 1693515600000,
+          "downloadALL": 5264,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 701502,
+          "name": "MOA DECOR COOKERY",
+          "author": "moa666creator",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/moa-decor-cookery",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 456981,
+          "pictures": [
+            502771,
+            387540,
+            502773,
+            387538,
+            502772,
+            387541,
+            387544,
+            387539,
+            387543,
+            387542
+          ],
+          "lanName": "moa-decor-cookery",
+          "version": {
+            "id": 4516273,
+            "name": "MOAdecor COOKERY 1.19.2",
+            "updateDate": 1682974800000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "8fb8ce184fedb81158e32958dcafe112fa977ddf",
+              "size": 1451886,
+              "path": "mods/MOAdecor+COOKERY+1.19.2.jar",
+              "url": "/mods/701502/4516273/MOAdecor+COOKERY+1.19.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 6025,
+              "name": "MOA DECOR LIGHTS",
+              "gameEntityId": 892530,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6021,
+              "name": "MOA DECOR BATH",
+              "gameEntityId": 853639,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6024,
+              "name": "MOA DECOR TOYS",
+              "gameEntityId": 701524,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6023,
+              "name": "MOA DECOR SCIENCE",
+              "gameEntityId": 701517,
+              "dependencyType": "embedded"
+            },
+            {
+              "gameType": "mod",
+              "id": 6020,
+              "name": "MOA DECOR ART",
+              "gameEntityId": 701473,
+              "dependencyType": "embedded"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1693515600000,
+          "update": 1693515600000,
+          "downloadALL": 12779,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 398521,
+          "name": "Farmer's Delight",
+          "author": "vectorwing",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 456522,
+          "pictures": [
+            315669,
+            315672,
+            315667,
+            315670,
+            315668,
+            315671
+          ],
+          "lanName": "farmers-delight",
+          "version": {
+            "id": 4679318,
+            "name": "FarmersDelight-1.19.2-1.2.3",
+            "updateDate": 1691011724000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "a55ca7720cd4142a146c6ad4309aa79c646eeec5",
+              "size": 2754721,
+              "path": "mods/FarmersDelight-1.19.2-1.2.3.jar",
+              "url": "/mods/398521/4679318/FarmersDelight-1.19.2-1.2.3.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1492,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1691010000000,
+          "update": 1691010000000,
+          "downloadALL": 2622086,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 714075,
+          "name": "FastFood Delight",
+          "author": "akaneo2",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fastfood-delight",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            },
+            {
+              "id": 24,
+              "name": "mc_food",
+              "shortName": "food",
+              "nesting": 0
+            }
+          ],
+          "picture": 380207,
+          "pictures": [
+            379987,
+            379986,
+            379985,
+            379988
+          ],
+          "lanName": "fastfood-delight",
+          "version": {
+            "id": 4121540,
+            "name": "fastfooddelight-1.19-1.2.3",
+            "updateDate": 1669626780000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "8db12a5cc5f4bb9c63d7bcc7e6fdc67f51406c5a",
+              "size": 85065,
+              "path": "mods/fastfooddelight-1.19-1.2.3.jar",
+              "url": "/mods/714075/4121540/fastfooddelight-1.19-1.2.3.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1417,
+              "name": "Farmer's Delight",
+              "gameEntityId": 398521,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1669626780000,
+          "update": 1669626780000,
+          "downloadALL": 14966,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 783076,
+          "name": "LandK furniture",
+          "author": "liberofree74",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/landk-furniture",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 399727,
+          "pictures": [
+            400416,
+            400415,
+            400421,
+            400425,
+            400411,
+            400423,
+            400413,
+            400424,
+            400419,
+            400418,
+            400414,
+            400417,
+            400412,
+            400420,
+            400410,
+            400422
+          ],
+          "lanName": "landk-furniture",
+          "version": {
+            "id": 4278842,
+            "name": "LandK_Furniture_v1.2_1.19.2-x128-3d-reflex",
+            "updateDate": 1672347600000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "6749fb0e2f8f0de6dc47ad79a477b23abbef9d45",
+              "size": 22779756,
+              "path": "mods/LandK_Furniture_v1.2_1.19.2-x128-3d-reflex.jar",
+              "url": "/mods/783076/4278842/LandK_Furniture_v1.2_1.19.2-x128-3d-reflex.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1678686120000,
+          "update": 1678686120000,
+          "downloadALL": 3293,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "author": "bre2el",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            }
+          ],
+          "picture": 477874,
+          "pictures": [],
+          "lanName": "fps-reducer",
+          "version": {
+            "id": 3931329,
+            "name": "FpsReducer2-forge-1.19.2-2.1",
+            "updateDate": 1660287120000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              }
+            ],
+            "metadata": {
+              "sha1": "5989e6103fe38e50c7335eba000e358c1f887f17",
+              "size": 123098,
+              "path": "mods/FpsReducer2-forge-1.19.2-2.1.jar",
+              "url": "/mods/280294/3931329/FpsReducer2-forge-1.19.2-2.1.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 15661,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1686690000000,
+          "update": 1686690000000,
+          "downloadALL": 11568759,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 337243,
+          "name": "True Darkness",
+          "author": "grondagthebarbarian",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/true-darkness",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 120240,
+          "pictures": [
+            148224,
+            148223,
+            148226,
+            148225,
+            148227
+          ],
+          "lanName": "true-darkness",
+          "version": {
+            "id": 4143529,
+            "name": "darkness-forge-mc119-2.0.101",
+            "updateDate": 1670401080000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "438a7c243af5afc9f53212449eb37b8c3d8994af",
+              "size": 29654,
+              "path": "mods/darkness-forge-mc119-2.0.101.jar",
+              "url": "/mods/337243/4143529/darkness-forge-mc119-2.0.101.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 43,
+            "name": "1.19.3"
+          },
+          "updated": 1670758320000,
+          "update": 1670758320000,
+          "downloadALL": 19393,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 497566,
+          "name": "City Decor",
+          "author": "tzar_anthony",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/city-decor",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 285193,
+          "pictures": [
+            293681,
+            293683,
+            293680,
+            293678,
+            293679,
+            293682
+          ],
+          "lanName": "city-decor",
+          "version": {
+            "id": 4077177,
+            "name": "citydecor-1.2.0",
+            "updateDate": 1668072840000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "9bd95896c6e08601e231efafebe9425edc9b7e22",
+              "size": 1265913,
+              "path": "mods/citydecor-1.2.0.jar",
+              "url": "/mods/497566/4077177/citydecor-1.2.0.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1668072840000,
+          "update": 1668072840000,
+          "downloadALL": 21795,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 579707,
+          "name": "Oaks Decor",
+          "author": "continuedoakgaming",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/oaks-decor",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 474182,
+          "pictures": [
+            288178,
+            349806,
+            269129,
+            269135,
+            288177,
+            269133,
+            349805,
+            269128,
+            269130,
+            269127,
+            269136,
+            269132,
+            269134
+          ],
+          "lanName": "oaks-decor",
+          "version": {
+            "id": 4560823,
+            "name": "Oaks_Decor_v10.1_Builders_Dream_Update(Part2) (1.19.2) (PUBLIC)",
+            "updateDate": 1685480400000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "dd92b234a6bbc13b01040425b671b88ceecb0e20",
+              "size": 4833465,
+              "path": "mods/Oaks_Decor_v10.1_Builders_Dream_Update(Part2)+(1.19.2)+(PUBLIC).jar",
+              "url": "/mods/579707/4560823/Oaks_Decor_v10.1_Builders_Dream_Update(Part2)+(1.19.2)+(PUBLIC).jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 44,
+            "name": "1.19.4"
+          },
+          "updated": 1685912400000,
+          "update": 1685912400000,
+          "downloadALL": 6029,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 513493,
+          "name": "The Five Nights at Freddy's Mod",
+          "author": "mephilislive",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/the-five-nights-at-freddys-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 510179,
+          "pictures": [
+            510278,
+            510281,
+            510289,
+            510287,
+            510282,
+            510284,
+            510288,
+            510277,
+            510283,
+            510279,
+            510280,
+            510285,
+            510286
+          ],
+          "lanName": "the-five-nights-at-freddys-mod",
+          "version": {
+            "id": 4673849,
+            "name": "FNAF Mod Update 4 Gears and Fears",
+            "updateDate": 1690782314000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 38,
+                "name": "1.19.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f3e8fd689f4ac15526e4fb69e27c3537b2c6979d",
+              "size": 37920449,
+              "path": "mods/FNAF+Mod+Update+4+Gears+and+Fears.jar",
+              "url": "/mods/513493/4673849/FNAF+Mod+Update+4+Gears+and+Fears.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 169,
+              "name": "GeckoLib",
+              "gameEntityId": 388172,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 38,
+            "name": "1.19.2"
+          },
+          "updated": 1690750800000,
+          "update": 1690750800000,
+          "downloadALL": 45648,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": 570177,
+          "name": "DSWG Darkness",
+          "author": "daswaget",
+          "linkProject": "https://www.curseforge.com/minecraft/texture-packs/dswg-darkness",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 41,
+              "name": "sixteen_x",
+              "shortName": "16x",
+              "nesting": 0
+            },
+            {
+              "id": 53,
+              "name": "traditional",
+              "shortName": "traditional",
+              "nesting": 0
+            }
+          ],
+          "picture": 438473,
+          "pictures": [
+            281257,
+            281256,
+            281255,
+            281259,
+            281258,
+            281260
+          ],
+          "lanName": "dswg-darkness",
+          "version": {
+            "id": 4636184,
+            "name": "1.20 v1.1",
+            "updateDate": 1689035948000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 34,
+                "name": "1.18.1"
+              },
+              {
+                "id": 35,
+                "name": "1.18.2"
+              },
+              {
+                "id": 26,
+                "name": "1.15.2"
+              },
+              {
+                "id": 44,
+                "name": "1.19.4"
+              },
+              {
+                "id": 37,
+                "name": "1.19.1"
+              },
+              {
+                "id": 23,
+                "name": "1.14.4"
+              },
+              {
+                "id": 32,
+                "name": "1.17.1"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 33,
+                "name": "1.18"
+              },
+              {
+                "id": 38,
+                "name": "1.19.2"
+              },
+              {
+                "id": 43,
+                "name": "1.19.3"
+              },
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 40,
+                "name": "1.16"
+              },
+              {
+                "id": 42,
+                "name": "1.14.1"
+              },
+              {
+                "id": 24,
+                "name": "1.15"
+              },
+              {
+                "id": 36,
+                "name": "1.19"
+              },
+              {
+                "id": 39,
+                "name": "1.17"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 19,
+                "name": "1.13.2"
+              },
+              {
+                "id": 22,
+                "name": "1.14.3"
+              },
+              {
+                "id": 25,
+                "name": "1.15.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              },
+              {
+                "id": 21,
+                "name": "1.14.2"
+              },
+              {
+                "id": 41,
+                "name": "1.14"
+              }
+            ],
+            "metadata": {
+              "sha1": "0e345df8e139f70c9ff98ece8cb5f5f8297d03d7",
+              "size": 11392,
+              "path": "resourcepacks/DSWG+Darkness+1.20+v1.1.zip",
+              "url": "/resourcepacks/570177/4636184/DSWG+Darkness+1.20+v1.1.zip"
+            },
+            "available": false,
+            "minecraftVersionTypes": []
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 46,
+            "name": "1.20.1"
+          },
+          "updated": 1689022800000,
+          "update": 1689022800000,
+          "downloadALL": 1136,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        }
+      ],
+      "maps": [
+        {
+          "stateGameElement": "active",
+          "id": -1046100532640000,
+          "name": "New World",
+          "favorite": false,
+          "version": {
+            "id": -1046100534074000,
+            "name": "1.0",
+            "metadata": {
+              "folders": [
+                "New World"
+              ],
+              "size": 0,
+              "path": "saves/New World",
+              "url": "saves/New World"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        }
+      ],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 38,
+        "name": "1.19.2"
+      },
+      "minecraftVersionName": {
+        "id": 3371,
+        "name": "43.2.0"
+      },
+      "id": -851923141226501,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.19.2",
+  "skinVersion": false
+}

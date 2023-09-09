@@ -1,0 +1,38 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "fazcraft:handbook": {
+      "viewedEntries": [
+        "fazcraft:animatronics/wave1",
+        "fazcraft:misc/plushsuits",
+        "fazcraft:tools/faultytransponder",
+        "fazcraft:misc/balloons",
+        "fazcraft:animatronics/skins",
+        "fazcraft:misc/craftmaterials",
+        "fazcraft:tools/fazcam",
+        "fazcraft:tools/consoles",
+        "fazcraft:tools/chargingstation",
+        "fazcraft:misc/decor",
+        "fazcraft:tools/lures",
+        "fazcraft:introduction/introduction4",
+        "fazcraft:introduction/introduction5",
+        "fazcraft:introduction/introduction1",
+        "fazcraft:tools/batteries",
+        "fazcraft:introduction/introduction2",
+        "fazcraft:introduction/introduction3",
+        "fazcraft:tools/frequencyresonator",
+        "fazcraft:misc/synthesizers",
+        "fazcraft:misc/remnantdeposit",
+        "fazcraft:tools/freddymask",
+        "fazcraft:misc/food",
+        "fazcraft:tools/flashbeacon",
+        "fazcraft:tools/hand_unit",
+        "fazcraft:tools/flashlight",
+        "fazcraft:animatronics/misc"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
